@@ -17,6 +17,6 @@ channel_targets:
 macos_machine:
 - x86_64-apple-darwin13.4.0
 plutovg:
-- 0.0.9
+- 0.0.10
 target_platform:
 - osx-64
