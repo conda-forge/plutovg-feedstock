@@ -1,4 +1,4 @@
-{% set version = "0.0.11" %}
+{% set version = "0.0.12" %}
 
 package:
   name: plutovg
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://github.com/sammycage/plutovg/archive/refs/tags/v{{ version }}.tar.gz
-  sha256: f6c34ff2594566e1e7698098653b853cdbc77fafe96021300e65be9d16764f64
+  sha256: b26b01f4540259784955d224a6adf91f4cff5f38fb64f6098984bf91df8fbd8f
 
 build:
   number: 0
