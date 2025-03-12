@@ -31,7 +31,7 @@ test:
     - if not exist %PREFIX%\Library\include\plutovg\plutovg.h exit 1  # [win]
     - if not exist %PREFIX%\Library\lib\plutovg.lib exit 1            # [win]
     - if not exist %PREFIX%\Library\lib\pkgconfig\plutovg.pc exit 1   # [win]
-    - if not exist %PREFIX%\Library\bin\plutovg-0.dll exit 1          # [win]
+    - if not exist %PREFIX%\Library\bin\plutovg-1.dll exit 1          # [win]
 
 about:
   home: https://github.com/sammycage/plutovg
