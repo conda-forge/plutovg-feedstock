@@ -17,6 +17,6 @@ channel_targets:
 macos_machine:
 - arm64-apple-darwin20.0.0
 plutovg:
-- 1.1.0
+- 1.2.0
 target_platform:
 - osx-arm64
